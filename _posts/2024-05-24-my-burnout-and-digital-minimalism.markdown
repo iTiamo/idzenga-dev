@@ -3,7 +3,6 @@ layout: post
 title: "My Burnout and Digital Minimalism"
 tags: [ digital minimalism ]
 ---
-# My Burnout and Digital Minimalism
 
 ## The Lead-up
 
