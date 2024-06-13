@@ -1,5 +1,5 @@
 # Install Ruby for Rusy LSP plugin
-rbenv install <.ruby-version
+rvm install "ruby-$(<.ruby-version)"
 
 # .gitconfig is copied from Windows to the container, this can cause issues with
 # regards to the commit signing program not being found. Unsetting the signing
