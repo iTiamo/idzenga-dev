@@ -1,0 +1,5 @@
+/* Limit height. Show scrollbars when exceeding height */
+.gist .blob-wrapper.data {
+  max-height: 25lh;
+  overflow: auto;
+}

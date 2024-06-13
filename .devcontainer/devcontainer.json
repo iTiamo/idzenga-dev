@@ -5,7 +5,11 @@
   "image": "mcr.microsoft.com/devcontainers/jekyll:3.2-bookworm",
   "customizations": {
     "vscode": {
-      "extensions": ["yzhang.markdown-all-in-one", "esbenp.prettier-vscode"]
+      "extensions": [
+        "yzhang.markdown-all-in-one",
+        "esbenp.prettier-vscode",
+        "sissel.shopify-liquid"
+      ]
     }
   },
   "forwardPorts": [4000],
