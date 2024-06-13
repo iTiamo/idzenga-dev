@@ -4,8 +4,6 @@ title: "My Burnout and Digital Minimalism"
 tags: [ digital minimalism, mental health ]
 ---
 
-## The Lead-up
-
 At the time of writing, I am suffering and recovering from burnout. The first symptoms appeared in August of 2023: I was frequently exhausted, physically and mentally; I had a hard time motivating myself to work and in general, I felt like I was being dragged along in a relentless current of events that I had little to no control over. By September, my symptoms became physical: I had frequent unexplainable stomach aches and headaches. Eventually, one of my colleagues suggested visiting my general practitioner (GP).
 
 There, I had to confront what I had been fearing but did not want to admit. In fact, it was me who suggested first that I might be suffering from burnout-related symptoms. My GP agreed. He referred me to the psychological well-being practitioner (PWP), known as a POH-GGZ in The Netherlands. The PWP agreed. The company doctor agreed. He referred me to a psychologist. The psychologist agreed. I could no longer deny the reality of the situation.
