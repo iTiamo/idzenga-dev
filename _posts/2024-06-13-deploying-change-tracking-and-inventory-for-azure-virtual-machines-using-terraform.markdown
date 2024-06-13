@@ -45,4 +45,4 @@ The example below will have the policy initiative deploy a system assigned manag
 
 ## Conclusion
 
-I hope this article helped you to deploy Change Tracking and Inventory for virtual machines in Azure. Now get to work creating alert rules on the new log data you are collecting. 🤓 I'd love to know how you are using CT in Azure and what benefits it offers you. Leave a comment (when I've created a commenting system) or contact me in some other way!
+I hope this article helped you to deploy Change Tracking and Inventory for virtual machines in Azure. Now get to work creating alert rules on the new log data you are collecting. 🤓 I'd love to know how you are using CT in Azure and what benefits it offers you. Leave a comment or contact me over LinkedIn or email!
