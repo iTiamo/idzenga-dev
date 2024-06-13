@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Burnout and Digital Minimalism"
-tags: [ digital minimalism ]
+tags: [ digital minimalism, mental health ]
 ---
 
 ## The Lead-up
