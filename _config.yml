@@ -24,7 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   I write about the challenges working with Azure cloud, DevOps,
   software engineering and mental health awareness in and out of the workplace.
 domain: idzenga.dev
-baseurl: /blog # the subpath of your site, e.g. /blog
+#baseurl: /blog # the subpath of your site, e.g. /blog
+permalink: /posts/:title
 url: https://idzenga.dev # the base hostname & protocol for your site, e.g. http://example.com
 github_username: iTiamo
 
