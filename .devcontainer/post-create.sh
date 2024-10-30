@@ -1,2 +1,2 @@
 # Install Ruby for Rusy LSP plugin
-rvm install "ruby-$(<.ruby-version)"
+# rvm install "ruby-$(<.ruby-version)"
