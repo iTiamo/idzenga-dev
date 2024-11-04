@@ -3,6 +3,7 @@
 {
   "name": "Jekyll",
   "image": "mcr.microsoft.com/devcontainers/jekyll:3.2-bookworm",
+  "features": {},
   "customizations": {
     "vscode": {
       "extensions": [
