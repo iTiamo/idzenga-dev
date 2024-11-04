@@ -20,10 +20,11 @@ This guide will focus on using the native Docker engine on an Ubuntu distributio
 
 1. Install WSL and Ubuntu, run: `wsl --install -d Ubuntu` in an elevated PowerShell sessions. For example, using the Terminal app.
 2. After installation, you will be prompted to set up your account.
-3. Install Docker Engine on Ubuntu with apt. Be sure to [follow the latest instructions](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository).
 
     ![Installation of WSL and account set-up](/assets/images/installation_of_wsl_and_account_set_up.png)
     <sub><i>Installation of WSL and account set-up</i></sub>
+
+3. Install Docker Engine on Ubuntu with apt. Be sure to [follow the latest instructions](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository).
 
 4. Ensure that system support is enabled, check if the `/etc/wsl.conf` file contains the following lines: 
    
