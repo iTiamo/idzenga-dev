@@ -7,7 +7,6 @@
 .gist {
   .gist-file {
     border: none !important;
-    margin-bottom: 0 !important;
     .gist-data {
       border-bottom: 2px solid #95a5a6 !important;
       .line-numbers {
@@ -128,4 +127,8 @@
 
 .gist .blob-num {
   border: 0;
+}
+
+li {
+  margin-bottom: 0.5em;
 }
