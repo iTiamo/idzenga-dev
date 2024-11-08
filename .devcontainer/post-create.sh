@@ -1,5 +1,5 @@
 # Install Ruby for Rusy LSP plugin
-rvm install "ruby-$(<.ruby-version)"
+rvm install "ruby-$(</workspaces/idzenga.dev/.ruby-version)"
 
 # Install dependencies for project
 bundle install
