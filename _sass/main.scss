@@ -1,10 +1,7 @@
-/* Limit height. Show scrollbars when exceeding height */
-.gist .blob-wrapper.data {
-  max-height: 20lh;
-  overflow: auto;
-}
-
 .gist {
+  li {
+    margin-bottom: 0.5em;
+  }
   .gist-file {
     border: none !important;
     .gist-data {
@@ -123,12 +120,11 @@
       background: #ecf0f1 !important;
     }
   }
-}
-
-.gist .blob-num {
-  border: 0;
-}
-
-li {
-  margin-bottom: 0.5em;
+  .blob-num {
+    border: 0;
+  }
+  .blob-wrapper.data {
+    max-height: 20lh;
+    overflow: auto;
+  }
 }

@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "Getting started with Dev Containers using Visual Studio Code & WSL"
-tags: [ dev-containers, containers, visual-studio-code, wsl ]
+tags: 
+  - dev-containers
+  - containers
+  - visual-studio-code
+  - wsl
+author: Tiamo Idzenga
 ---
 
 [Dev containers](https://containers.dev) are awesome! The idea behind Dev Containers is defining your development environment alongside your codebase. Dev containers can help onboard team members onto projects much quicker, preventing them from having to install the developer tools and runtimes. Beyond team usage, Dev Containers can also help with individual projects. They prevent cluttering up your local machine and they separate version and authentication contexts. In addition, you can even use Dev Containers in CI, ensuring that your pipelines use the exact same development environment as your developers. You will never hear "It worked on my machine" again!

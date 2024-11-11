@@ -18,23 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ☁️ Tiamo Idzenga
-email: tiamo@idzenga.dev
-description: >- # this means to ignore newlines until "baseurl:"
+# SEO tag
+title: ☁️ idzenga.dev
+tagline: Navigating my challenges in working with Azure
+description: >
   I write about the challenges working with Azure cloud, DevOps,
   software engineering and mental health awareness in and out of the workplace.
+url: https://idzenga.dev
+author: Tiamo Idzenga
+social:
+  links:
+    - https://linkedin.com/in/tiamo-idzenga
+    - https://github.com/iTiamo
+google_analytics: G-BD3KKE8T6Y
+
 domain: idzenga.dev
-#baseurl: /blog # the subpath of your site, e.g. /blog
 permalink: /posts/:title
-url: https://idzenga.dev # the base hostname & protocol for your site, e.g. http://example.com
 github_username: iTiamo
+email: tiamo@idzenga.dev
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
-google_analytics: G-BD3KKE8T6Y
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
