@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Burnout and Digital Minimalism"
-tags: [ digital minimalism, mental health ]
+tags: [ digital-minimalism, mental-health ]
 ---
 
 At the time of writing, I am suffering and recovering from burnout. The first symptoms appeared in August of 2023: I was frequently exhausted, physically and mentally; I had a hard time motivating myself to work and in general, I felt like I was being dragged along in a relentless current of events that I had little to no control over. By September, my symptoms became physical: I had frequent unexplainable stomach aches and headaches. Eventually, one of my colleagues suggested visiting my general practitioner (GP).

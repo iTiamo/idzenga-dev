@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deploying Change Tracking and Inventory for Azure Virtual Machines using Terraform"
-tags: [ azure, terraform, virtual machines ]
+tags: [ azure, terraform, virtual-machines ]
 ---
 
 [Change Tracking and Inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/overview-monitoring-agent) (CT) is an Azure service that allows you to track changes on both Windows and Linux virtual machines such as changes in software, files, registry, services/daemons. CT collects these changes in a log analytics workspace, allowing alerting rules to be set up on these changes. For example, you might want to be alerted when software is installed, the contents of a file or registry key changes or when a service stops running.
